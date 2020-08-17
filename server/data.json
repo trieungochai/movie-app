@@ -1,0 +1,57 @@
+[
+  {
+    "id": "2",
+    "title": "Fantastic Mr. Fox",
+    "releaseYear": 2009,
+    "description": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
+    "longDesc": "Fantastic Mr. Fox is a 2009 stop motion animated comedy film directed by Wes Anderson, based on Roald Dahl's 1970 children's novel of the same name. The film is about a fox who steals food at night from three mean and wealthy farmers. They are fed up with Mr. Fox's theft and try to kill him so they dig their way into the foxes' home. However, the animals are able to outwit the farmers and live underground.",
+    "rating": 7.9,
+    "genre": "Animation, Adventure, Comedy",
+    "cover": "https://www.okcmoa.com/wp-content/uploads/2016/11/Fantastic-Mr.-Fox-2.jpg",
+    "image": "https://www.elle.vn/wp-content/uploads/2018/10/30/4-1024x576.jpg"
+  },
+  {
+    "title": "Scott Pilgrim vs. the World",
+    "description": "Scott Pilgrim must defeat his new girlfriend's seven evil exes in order to win her heart.",
+    "releaseYear": 2010,
+    "rating": "7.5",
+    "image": "https://media.wired.com/photos/59341ae0fbdfa3763bab6cfb/191:100/pass/IMG_3078.jpg",
+    "cover": "http://2.bp.blogspot.com/-jWtPOfZt6_M/VT4pLRYk2cI/AAAAAAAAAGo/uJ9mtGduWDY/s1600/369937__scott-pilgrim-vs-the-world_p.jpg",
+    "longDesc": "Scott Pilgrim vs. the World is a 2010 comedy film co-written, produced, and directed by Edgar Wright, based on the graphic novel series Scott Pilgrim by Bryan Lee O'Malley. It stars Michael Cera as Scott Pilgrim, a slacker musician who must win a competition to get a record deal, and battle the seven evil exes of his newest girlfriend Ramona Flowers, played by Mary Elizabeth Winstead. It also stars Chris Evans, Brandon Routh, and Mae Whitman as some of the evil exes, Anna Kendrick, Kieran Culkin, and Alison Pill as some of Scott's friends, and Brie Larson as Scott's own evil ex. Jason Schwartzman plays Gideon, Ramona's most recent ex and the competition's record producer.",
+    "genre": "Action, Comedy, Fantasy",
+    "id": "74bfj"
+  },
+  {
+    "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+    "description": "Wallace and his loyal dog, Gromit, set out to discover the mystery behind the garden sabotage that plagues their village and threatens the annual giant vegetable growing contest.",
+    "releaseYear": 2005,
+    "rating": "7.4",
+    "image": "https://www.comedy.co.uk/images/library/comedies/900x450/w/wallace_and_gromit_curse_were_rabbit.jpg",
+    "cover": "https://tenyearsago.files.wordpress.com/2015/10/wallace51.jpg",
+    "longDesc": "Wallace & Gromit: The Curse of the Were-Rabbit is a 2005 stop motion clay-animated supernatural comedy film produced by Aardman Animations in partnership with DreamWorks Animation. United International Pictures distributed the film in the United Kingdom, and it was the last DreamWorks Animation film to be distributed by DreamWorks Pictures in the United States. It was directed by Nick Park and Steve Box as the second feature-length film by Aardman after Chicken Run (2000). The film premiered in Sydney, Australia on 4 September 2005, before being released in cinemas in the United States on 7 October 2005 and in the United Kingdom a week later on 14 October 2005.",
+    "genre": "Animation, Adventure, Comedy",
+    "id": "wvdpj"
+  },
+  {
+    "title": "Breaking Bad",
+    "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+    "releaseYear": 2008,
+    "rating": "9.5",
+    "image": "https://i.ytimg.com/vi/ceqOTZnhgY8/maxresdefault.jpg",
+    "cover": "https://i.insider.com/5d7f91ed6f24eb3d3e33cc05?width=900&format=jpeg&auto=webp",
+    "longDesc": "Breaking Bad is an American neo-Western crime drama television series created and produced by Vince Gilligan. The show aired on AMC from January 20, 2008, to September 29, 2013, consisting of five seasons for a total of 62 episodes. It was set and filmed in Albuquerque, New Mexico, and tells the story of Walter White (Bryan Cranston), an underemployed and dispirited high school chemistry teacher who is struggling with a recent diagnosis of stage-three lung cancer. White turns to a life of crime, partnering with his former student Jesse Pinkman (Aaron Paul), by producing and distributing crystallized methamphetamine to secure his family's financial future before he dies, while navigating the dangers of the criminal underworld. The title is a Southern colloquialism meaning to turn to a life of crime. Gilligan characterized the series as showing Walter's transformation from a soft-spoken Mr. Chips into Scarface.",
+    "genre": "Crime, Thriller, Drama",
+    "id": "19c9b"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+    "releaseYear": 2018,
+    "rating": "8.4",
+    "image": "https://ss-images.catscdn.vn/w1000/2019/11/02/6365106/136cf8f8-b589-4ae8-ac64-5cce5f90bde1.jpg",
+    "cover": "https://d2wvmrjymyrujw.cloudfront.net/media/uploads/webs.jpg",
+    "longDesc": "Spider-Man: Into the Spider-Verse is a 2018 American computer-animated superhero film featuring the Miles Morales incarnation of the Marvel Comics character Spider-Man, produced by Columbia Pictures and Sony Pictures Animation in association with Marvel, and distributed by Sony Pictures Releasing. The first animated feature in the Spider-Man franchise, the film was directed by Bob Persichetti, Peter Ramsey, and Rodney Rothman (in Persichetti and Rothman's feature directorial debut) from a screenplay by Phil Lord and Rothman, and a story by Lord. It stars Shameik Moore as Miles Morales / Spider-Man, alongside the voices of Jake Johnson, Hailee Steinfeld, Mahershala Ali, Brian Tyree Henry, Lily Tomlin, Luna Lauren Velez, John Mulaney, Kimiko Glenn, Nicolas Cage, and Liev Schreiber. Set in a shared multiverse called the 'Spider-Verse,' the story follows Miles Morales as he becomes the new Spider-Man and joins other Spider-People from various dimensions to save New York City from Kingpin.",
+    "genre": "Animation, Action, Adventure",
+    "id": "wmf3k"
+  }
+]
